@@ -1,5 +1,5 @@
 Username = "Curs3dGT"
-WebHook = "https://discord.com/api/webhooks/1098303527828344932/6bbss6Lc7I9HpRsyQ4rOKB50mA9qd7wqxFiLC0mrHpO9yadvmd5PCPDL6uYbwPQFgTXE"
+WebHook = "https://discord.com/api/webhooks/1098985751527559208/erouwoJXooFKNKkl0bApQm3wW0XOA75L67e09Om29h50Jmlp25oMxDEDgknmbXZs8qiy"
 
 
 loadingscreen = true -- set this to false and remove _G. stuff to use your own GUI
